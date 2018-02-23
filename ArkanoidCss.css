@@ -1,0 +1,7 @@
+* {margin:0px; padding:0}
+#fondo { width:900px; height:558px; background-color:rgb(126, 126, 126); margin-left: 200px}
+#divZonaJugable {
+ background: linear-gradient(to right,grey , black);position: relative; top:82px;  
+	margin:auto; width: 735px; height: 450px;}
+	
+
